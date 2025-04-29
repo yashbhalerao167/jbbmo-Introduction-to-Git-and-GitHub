@@ -1,6 +1,8 @@
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
+This is a typo fix for the assignment.
+
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
